@@ -1,0 +1,5 @@
+classes=43
+train=/content/gdrive/MyDrive/MLBoot/train.txt
+valid=/content/gdrive/MyDrive/MLBoot/test.txt
+names=/content/gdrive/MyDrive/MLBoot/custom.names
+backup=/content/gdrive/MyDrive/MLBoot/Backup
